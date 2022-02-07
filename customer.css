@@ -1,0 +1,106 @@
+body{
+    font-family: "Raleway", sans-serif;
+    background: linear-gradient(to right, rgb(0, 195, 255), rgb(255, 255, 28));
+}
+
+
+.bg-light{
+    background-color: #ffffff!important;
+}
+
+.navbar-brand{
+    font-size: 2 rem;
+    background: #FFFBFB;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+}
+.aa{
+    font-family: "Raleway", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+}
+.nav-link{
+    color: #5f6368!important;
+    padding: 0.5321rem;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 4.5rem;
+    padding-left: 3.5rem;
+    font-size: 18px;
+    
+}
+.card h4.card-title, .card h5.card-title, .card h6.card-title {
+    font-size: 18px;
+    font-weight: 100;
+}
+.card{
+    font-size: 16px;
+}
+  .text {
+    position: absolute;
+    top: 50%; 
+    right: 87%;
+    transform: translate(50%,-50%);
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    color: #f5f5f5;
+}
+
+  .back {
+    background: #FFFFFF;
+    margin-bottom: 15px;
+    font-family: "Raleway", sans-serif;
+
+  }
+.na{
+    font-family: "Raleway", sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+    margin-left: 29px;
+}
+.he{
+
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+text-shadow: 2px 10px 12px rgba(0, 0, 0, 0.35);
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.my-info{
+    padding: 2rem 7rem;
+    color: rgb(255, 255, 255);
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(253, 253, 253)!important;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+    color: rgb(14, 13, 13)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(186, 187, 190)!important;
+}
+.table-responsive,table{
+    border-radius: 30px;
+    box-shadow: 40px 9px 32px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 18px;
+
+}
